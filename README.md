@@ -1,5 +1,5 @@
 # LaneFarthing_Python_Portfolio
-This is the portfolio of Python code that I learned during BISC 450C
+This is the portfolio of Python II code that I learned from Dr. Joshua Vandenbrink
 
 
 ## Sequence Objects
